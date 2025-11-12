@@ -28,14 +28,14 @@ The project demonstrates how an intelligent data pipeline — from ingestion to 
 ---
 
 ## Roadmap
-**Phase 1** – Architecture and documentation setup.
-**Phase 2** – Database modeling and ORM integration.
-**Phase 3** – Data ingestion and ETL process.
-**Phase 4** – Frontend MVP with interactive data access.
-**Phase 5** – KPI design and BI storytelling.
-**Phase 6** – Quality assurance and testing.
-**Phase 7** – CI/CD automation and cloud deployment.
-**Phase 8** – Documentation, portfolio, and final demo.
+- **Phase 1** – Architecture and documentation setup.
+- **Phase 2** – Database modeling and ORM integration.
+- **Phase 3** – Data ingestion and ETL process.
+- **Phase 4** – Frontend MVP with interactive data access.
+- **Phase 5** – KPI design and BI storytelling.
+- **Phase 6** – Quality assurance and testing.
+- **Phase 7** – CI/CD automation and cloud deployment.
+- **Phase 8** – Documentation, portfolio, and final demo.
 
 ---
 
